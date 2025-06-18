@@ -327,6 +327,11 @@ Throughout the program execution:
 - **No buffer overflows**: All array accesses are bounds-checked
 - **RAII compliance**: Destructors automatically clean up resources
 
+## Sample outputs
+
+![alt text](screshot1.PNG)
+![alt text](screshot2.PNG)
+
 ## Build and Run Instructions
 
 ```bash
